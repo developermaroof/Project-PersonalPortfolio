@@ -1282,8 +1282,7 @@ img {
   .home__blob {
     width: 320px;
   }
-
-  .home__social {
+  .home__img .home__social {
     transform: translateX(-6rem);
   }
 
