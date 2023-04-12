@@ -539,6 +539,10 @@ img {
   width: 100%;
 }
 
+.skills__react {
+  width: 100%;
+}
+
 .skills__close .skills__list {
   height: 0;
   overflow: hidden;
